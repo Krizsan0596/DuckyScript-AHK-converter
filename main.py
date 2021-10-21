@@ -64,6 +64,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
     script = script.replace("DOWN ", "Send {Down}")
     script = script.replace("LEFT ", "Send {Left}")
     script = script.replace("RIGHT ", "Send {Right}")
+    script = script.replace("TAB", "Send {Tab}")
 
     print("Replacement complete!")
 
