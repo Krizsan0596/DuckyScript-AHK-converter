@@ -1,4 +1,4 @@
-# AHKDuckyReplacer
+# Ducky to AHK
  A simple python script to convert Rubber Ducky payloads into AutoHotKey scripts.
 
  I have also added a sample payload for testing.
